@@ -28,8 +28,8 @@ const multiply = (a, b) =>  a * b;
 
 * Student at State University of Trade and Economics (Computer science) 
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-* w3schools.com (in progress)
-* https://javascript.info (in progress)
+* [w3schools.com](https://www.w3schools.com/) (in progress)
+* [javascript.info](https://javascript.info) (in progress)
 
 ### Languages
 
