@@ -1,0 +1,151 @@
+@font-face {
+    font-family: "DM Sans";
+    src: url("assets/fonts/DMSans-VariableFont_opsz\,wght.ttf");
+  }
+
+@font-face {
+    font-family: DM Sans;
+    src: url("assets/fonts/static/DMSans-Medium.ttf");
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    /*
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: "DM Sans", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #E5E5E5;
+  */
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .avatar-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+
+  .section{
+
+  
+  }
+
+
+ .header-container{
+ max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+ }
+
+ .main-container{
+  
+    max-width: 1440px;
+    margin: 0 auto;
+ }
+ .footer-container{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+ }
+.main{
+    margin-bottom: auto;
+    
+
+}
+
+
+
+.footer{
+    
+    padding: 20px;
+}
+.footer-links{
+  font-size: 20px;
+  text-decoration: none;
+  color:#504E4E;
+}
+.courses-logo{
+  width: 121px;
+  height: 45px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-item{
+    box-sizing: border-box;
+    font-size: 12px;
+    color:#504E4E;
+  }
+.nav-link{
+    position: relative;
+  padding: 0 12px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 50px;
+    color:#504E4E;
+}
+  html {
+    scroll-behavior: smooth;
+  }
+
+
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+
+  .first-title{
+    font-style: medium;
+    font-size: 25px;
+    
+    color:#000000;
+  }
+
+  .second-titale{
+    font-size: 20px;
+    color:#504E4E;
+  }
+  .test3{
+    font-style: medium;
+    font-size: 12px;
+    color:#000000;
+  }
+
+  .test4{
+    font-size: 10px;
+    color:#504E4E;
+    
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
