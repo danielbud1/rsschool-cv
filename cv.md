@@ -24,3 +24,18 @@ I am Daniel Budyshev, a student at the State University of Trade and Economics, 
 const multiply = (a, b) =>  a * b;
 ```
 
+### Education
+
+* Student at State University of Trade and Economics (Computer science) 
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* [w3schools.com](https://www.w3schools.com/) (in progress)
+* [javascript.info](https://javascript.info) (in progress)
+
+### Languages
+
+* Ukrainian: - Native
+* Russian: - Proficient 
+* English: - Intermediate 
+* Polish: - Elementary 
+* German: - Elementary 
+* Spanish: - Beginner 
